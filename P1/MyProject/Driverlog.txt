@@ -1,0 +1,163 @@
+Creating Lumen#0 | Brightness: 9 | Size: 70.22299398930411 | Power: 187
+Creating Lumen#1 | Brightness: 70 | Size: 36.72144914365427 | Power: 162
+Creating Lumen#2 | Brightness: 38 | Size: 44.42453970557829 | Power: 144
+Creating Lumen#3 | Brightness: 12 | Size: 83.19381373387588 | Power: 50
+Creating Lumen#4 | Brightness: 53 | Size: 45.42048620261833 | Power: 254
+Creating Lumen#5 | Brightness: 68 | Size: 11.392263745160758 | Power: 243
+Creating Lumen#6 | Brightness: 7 | Size: 26.13633249886984 | Power: 268
+Creating Lumen#7 | Brightness: 23 | Size: 71.74330556147271 | Power: 157
+Creating Lumen#8 | Brightness: 78 | Size: 92.10677683091039 | Power: 168
+Creating Lumen#9 | Brightness: 82 | Size: 92.66978622885443 | Power: 242
+
+---------------------Testing Lumen#0---------------------------
+Starting Reset Test...
+glow #1 | Returned: 632.006945903737 | Battery? 96% | Stablility? True | Reset? False
+glow #2 | Returned: 632.006945903737 | Battery? 92% | Stablility? True | Reset? False
+glow #3 | Returned: 632.006945903737 | Battery? 89% | Stablility? True | Reset? False
+glow #4 | Returned: 632.006945903737 | Battery? 85% | Stablility? True | Reset? False
+glow #5 | Returned: 632.006945903737 | Battery? 82% | Stablility? True | Reset? False
+glow #6 | Returned: 632.006945903737 | Battery? 78% | Stablility? True | Reset? False
+glow #7 | Returned: 632.006945903737 | Battery? 75% | Stablility? True | Reset? True
+glow #7 | Returned: 632.006945903737 | Battery? 96% | Stablility? True
+Toggling... isActive: False
+Initiating State Testing...
+State 1: Object is now Stable and isActive? True | Glow? 632.006945903737
+State 2: Object is now Stable and isActive? False | Glow? 91
+State 3: Object is now Unstable and isActive? True | Glow? 0.46737031926943085
+State 4: Object is now Unstable and isActive? False | Glow? -1
+
+---------------------Testing Lumen#1---------------------------
+Toggling... isActive: False
+Starting Reset Test...
+glow #1 | Returned: 30 | Battery? 98% | Stablility? True | Reset? False
+glow #2 | Returned: 32 | Battery? 96% | Stablility? True | Reset? False
+glow #3 | Returned: 34 | Battery? 94% | Stablility? True | Reset? False
+glow #4 | Returned: 36 | Battery? 92% | Stablility? True | Reset? False
+glow #5 | Returned: 38 | Battery? 90% | Stablility? True | Reset? False
+glow #6 | Returned: 40 | Battery? 88% | Stablility? True | Reset? True
+glow #6 | Returned: 30 | Battery? 98% | Stablility? True
+Toggling... isActive: True
+Initiating State Testing...
+State 1: Object is now Stable and isActive? False | Glow? 30
+State 2: Object is now Stable and isActive? True | Glow? 2570.501440055799
+State 3: Object is now Unstable and isActive? False | Glow? -1
+State 4: Object is now Unstable and isActive? True | Glow? 3.751429301386916
+
+---------------------Testing Lumen#2---------------------------
+Starting Reset Test...
+glow #1 | Returned: 1688.132508811975 | Battery? 97% | Stablility? True | Reset? False
+glow #2 | Returned: 1554.8588896952401 | Battery? 95% | Stablility? True | Reset? False
+glow #3 | Returned: 1421.5852705785053 | Battery? 93% | Stablility? True | Reset? False
+glow #4 | Returned: 1288.3116514617705 | Battery? 91% | Stablility? True | Reset? False
+glow #5 | Returned: 1155.0380323450356 | Battery? 88% | Stablility? True | Reset? True
+glow #5 | Returned: 1688.132508811975 | Battery? 97% | Stablility? True
+Toggling... isActive: False
+Initiating State Testing...
+State 1: Object is now Stable and isActive? True | Glow? 1688.132508811975
+State 2: Object is now Stable and isActive? False | Glow? 62
+State 3: Object is now Unstable and isActive? True | Glow? 0.07661779657527458
+State 4: Object is now Unstable and isActive? False | Glow? -1
+
+---------------------Testing Lumen#3---------------------------
+Starting Reset Test...
+glow #1 | Returned: 998.3257648065106 | Battery? 95% | Stablility? True | Reset? False
+glow #2 | Returned: 665.5505098710071 | Battery? 91% | Stablility? True | Reset? True
+glow #2 | Returned: 998.3257648065106 | Battery? 95% | Stablility? True
+Toggling... isActive: False
+Initiating State Testing...
+State 1: Object is now Stable and isActive? True | Glow? 998.3257648065106
+State 2: Object is now Stable and isActive? False | Glow? 88
+State 3: Object is now Unstable and isActive? True | Glow? 0.04829883718552255
+State 4: Object is now Unstable and isActive? False | Glow? -1
+
+---------------------Testing Lumen#4---------------------------
+Starting Reset Test...
+glow #1 | Returned: 2407.2857687387714 | Battery? 97% | Stablility? True | Reset? False
+glow #2 | Returned: 2225.603823928298 | Battery? 95% | Stablility? True | Reset? False
+glow #3 | Returned: 2043.9218791178248 | Battery? 93% | Stablility? True | Reset? False
+glow #4 | Returned: 1862.2399343073514 | Battery? 90% | Stablility? True | Reset? False
+glow #5 | Returned: 1680.5579894968782 | Battery? 88% | Stablility? True | Reset? False
+glow #6 | Returned: 1498.8760446864048 | Battery? 86% | Stablility? True | Reset? False
+glow #7 | Returned: 1317.1940998759314 | Battery? 84% | Stablility? True | Reset? False
+glow #8 | Returned: 1135.5121550654583 | Battery? 81% | Stablility? True | Reset? False
+glow #9 | Returned: 953.8302102549849 | Battery? 79% | Stablility? True | Reset? True
+glow #9 | Returned: 2407.2857687387714 | Battery? 97% | Stablility? True
+Toggling... isActive: False
+Initiating State Testing...
+State 1: Object is now Stable and isActive? True | Glow? 2407.2857687387714
+State 2: Object is now Stable and isActive? False | Glow? 47
+State 3: Object is now Unstable and isActive? True | Glow? 0.17486861576025284
+State 4: Object is now Unstable and isActive? False | Glow? -1
+
+---------------------Testing Lumen#5---------------------------
+Toggling... isActive: False
+Starting Reset Test...
+glow #1 | Returned: 32 | Battery? 99% | Stablility? True | Reset? False
+glow #2 | Returned: 35 | Battery? 98% | Stablility? True | Reset? False
+glow #3 | Returned: 38 | Battery? 98% | Stablility? True | Reset? False
+glow #4 | Returned: 41 | Battery? 97% | Stablility? True | Reset? False
+glow #5 | Returned: 44 | Battery? 97% | Stablility? True | Reset? False
+glow #6 | Returned: 47 | Battery? 96% | Stablility? True | Reset? False
+glow #7 | Returned: 50 | Battery? 96% | Stablility? True | Reset? False
+glow #8 | Returned: 53 | Battery? 95% | Stablility? True | Reset? False
+glow #9 | Returned: 56 | Battery? 94% | Stablility? True | Reset? True
+glow #9 | Returned: 32 | Battery? 99% | Stablility? True
+Initiating State Testing...
+State 1: Object is now Stable and isActive? True | Glow? 774.6739346709315
+State 2: Object is now Stable and isActive? False | Glow? 32
+State 3: Object is now Unstable and isActive? True | Glow? 10.592586287083884
+State 4: Object is now Unstable and isActive? False | Glow? -1
+
+---------------------Testing Lumen#6---------------------------
+Toggling... isActive: False
+Initiating State Testing...
+State 1: Object is now Stable and isActive? True | Glow? 182.95432749208888
+State 2: Object is now Stable and isActive? False | Glow? 93
+State 3: Object is now Unstable and isActive? True | Glow? 0.36528120617288246
+State 4: Object is now Unstable and isActive? False | Glow? -1
+
+---------------------Testing Lumen#7---------------------------
+Starting Reset Test...
+glow #1 | Returned: 1650.0960279138724 | Battery? 96% | Stablility? True | Reset? False
+glow #2 | Returned: 1219.636194545036 | Battery? 92% | Stablility? True | Reset? False
+glow #3 | Returned: 789.1763611761999 | Battery? 89% | Stablility? True | Reset? False
+glow #4 | Returned: 358.71652780736355 | Battery? 85% | Stablility? True | Reset? False
+glow #5 | Returned: 358.71652780736355 | Battery? 82% | Stablility? True | Reset? False
+glow #6 | Returned: 358.71652780736355 | Battery? 78% | Stablility? True | Reset? True
+glow #6 | Returned: 1650.0960279138724 | Battery? 96% | Stablility? True
+
+---------------------Testing Lumen#8---------------------------
+Toggling... isActive: False
+Starting Reset Test...
+glow #1 | Returned: 22 | Battery? 95% | Stablility? True | Reset? False
+glow #2 | Returned: 24 | Battery? 90% | Stablility? True | Reset? False
+glow #3 | Returned: 26 | Battery? 86% | Stablility? True | Reset? False
+glow #4 | Returned: 28 | Battery? 81% | Stablility? True | Reset? False
+glow #5 | Returned: 30 | Battery? 76% | Stablility? True | Reset? False
+glow #6 | Returned: 32 | Battery? 72% | Stablility? True | Reset? True
+glow #6 | Returned: 22 | Battery? 95% | Stablility? True
+Toggling... isActive: True
+Initiating State Testing...
+State 1: Object is now Stable and isActive? False | Glow? 22
+State 2: Object is now Stable and isActive? True | Glow? 7184.328592811011
+State 3: Object is now Unstable and isActive? False | Glow? -1
+State 4: Object is now Unstable and isActive? True | Glow? 10.031354860690907
+
+---------------------Testing Lumen#9---------------------------
+Toggling... isActive: False
+Starting Reset Test...
+glow #1 | Returned: 18 | Battery? 95% | Stablility? True | Reset? False
+glow #2 | Returned: 20 | Battery? 90% | Stablility? True | Reset? False
+glow #3 | Returned: 22 | Battery? 86% | Stablility? True | Reset? False
+glow #4 | Returned: 24 | Battery? 81% | Stablility? True | Reset? False
+glow #5 | Returned: 26 | Battery? 76% | Stablility? True | Reset? False
+glow #6 | Returned: 28 | Battery? 72% | Stablility? True | Reset? False
+glow #7 | Returned: 30 | Battery? 67% | Stablility? True | Reset? False
+glow #8 | Returned: 32 | Battery? 62% | Stablility? True | Reset? False
+glow #9 | Returned: 34 | Battery? 58% | Stablility? True | Reset? True
+glow #9 | Returned: 18 | Battery? 95% | Stablility? True
+Initiating State Testing...
+State 1: Object is now Stable and isActive? True | Glow? 7598.922470766063
+State 2: Object is now Stable and isActive? False | Glow? 18
+State 3: Object is now Unstable and isActive? True | Glow? 3.4275403948913605
+State 4: Object is now Unstable and isActive? False | Glow? -1

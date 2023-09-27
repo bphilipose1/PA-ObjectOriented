@@ -1,0 +1,27 @@
+Starting Reset Test...
+glow #1 | Returned: 9000 | Battery? 95% | Stablility? True | Reset? False
+glow #2 | Returned: 8800 | Battery? 90% | Stablility? True | Reset? False
+glow #3 | Returned: 8600 | Battery? 85% | Stablility? True | Reset? False
+glow #4 | Returned: 8400 | Battery? 80% | Stablility? True | Reset? False
+glow #5 | Returned: 8200 | Battery? 75% | Stablility? True | Reset? False
+glow #6 | Returned: 8000 | Battery? 70% | Stablility? True | Reset? False
+glow #7 | Returned: 7800 | Battery? 65% | Stablility? True | Reset? False
+glow #8 | Returned: 7600 | Battery? 60% | Stablility? True | Reset? False
+glow #9 | Returned: 7400 | Battery? 55% | Stablility? True | Reset? True
+glow #9 | Returned: 9000 | Battery? 95% | Stablility? True
+Toggling, isActive: False
+Starting Reset Test...
+glow #1 | Returned: 10 | Battery? 90% | Stablility? True | Reset? False
+glow #2 | Returned: 12 | Battery? 85% | Stablility? True | Reset? False
+glow #3 | Returned: 14 | Battery? 80% | Stablility? True | Reset? False
+glow #4 | Returned: 16 | Battery? 75% | Stablility? True | Reset? False
+glow #5 | Returned: 18 | Battery? 70% | Stablility? True | Reset? False
+glow #6 | Returned: 20 | Battery? 65% | Stablility? True | Reset? False
+glow #7 | Returned: 22 | Battery? 60% | Stablility? True | Reset? False
+glow #8 | Returned: 24 | Battery? 55% | Stablility? True | Reset? True
+glow #8 | Returned: 10 | Battery? 95% | Stablility? True
+Initiating State Testing...
+State 1: Object is now Stable and isActive? False | Glow? 10
+State 2: Object is now Stable and isActive? True | Glow? 9000
+State 3: Object is now Unstable and isActive? False | Glow? -1
+State 4: Object is now Unstable and isActive? True | Glow? 9

@@ -1,0 +1,15 @@
+C:\Users\phili\OneDrive\Documents\Spring 2023\Object Oriented Programming - CPSC 3200\P1\MyProject\obj\Debug\net7.0\MyProject.csproj.AssemblyReference.cache
+C:\Users\phili\OneDrive\Documents\Spring 2023\Object Oriented Programming - CPSC 3200\P1\MyProject\obj\Debug\net7.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\OneDrive\Documents\Spring 2023\Object Oriented Programming - CPSC 3200\P1\MyProject\obj\Debug\net7.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\phili\OneDrive\Documents\Spring 2023\Object Oriented Programming - CPSC 3200\P1\MyProject\obj\Debug\net7.0\MyProject.AssemblyInfo.cs
+C:\Users\phili\OneDrive\Documents\Spring 2023\Object Oriented Programming - CPSC 3200\P1\MyProject\obj\Debug\net7.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Documents\Spring 2023\Object Oriented Programming - CPSC 3200\P1\MyProject\bin\Debug\net7.0\MyProject.exe
+C:\Users\phili\OneDrive\Documents\Spring 2023\Object Oriented Programming - CPSC 3200\P1\MyProject\bin\Debug\net7.0\MyProject.deps.json
+C:\Users\phili\OneDrive\Documents\Spring 2023\Object Oriented Programming - CPSC 3200\P1\MyProject\bin\Debug\net7.0\MyProject.runtimeconfig.json
+C:\Users\phili\OneDrive\Documents\Spring 2023\Object Oriented Programming - CPSC 3200\P1\MyProject\bin\Debug\net7.0\MyProject.dll
+C:\Users\phili\OneDrive\Documents\Spring 2023\Object Oriented Programming - CPSC 3200\P1\MyProject\bin\Debug\net7.0\MyProject.pdb
+C:\Users\phili\OneDrive\Documents\Spring 2023\Object Oriented Programming - CPSC 3200\P1\MyProject\obj\Debug\net7.0\MyProject.dll
+C:\Users\phili\OneDrive\Documents\Spring 2023\Object Oriented Programming - CPSC 3200\P1\MyProject\obj\Debug\net7.0\refint\MyProject.dll
+C:\Users\phili\OneDrive\Documents\Spring 2023\Object Oriented Programming - CPSC 3200\P1\MyProject\obj\Debug\net7.0\MyProject.pdb
+C:\Users\phili\OneDrive\Documents\Spring 2023\Object Oriented Programming - CPSC 3200\P1\MyProject\obj\Debug\net7.0\MyProject.genruntimeconfig.cache
+C:\Users\phili\OneDrive\Documents\Spring 2023\Object Oriented Programming - CPSC 3200\P1\MyProject\obj\Debug\net7.0\ref\MyProject.dll
